@@ -338,7 +338,7 @@ function ribu(amount)
     end
     return formatted
 end
-ipBotStatus = "http://172.104.212.103/pingjj.php"
+ipBotStatus = "http://172.104.212.103/ping.php"
 localip1 = ""
 localip2 = ""
 function getLocalIp()
